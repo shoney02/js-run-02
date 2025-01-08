@@ -12,7 +12,7 @@
 
 // TODO: calculateStatistics 함수를 작성하세요.
 function calculateStatistics(users) {
-  // TODO
+  
 }
 
 // export를 수정하지 마세요.
