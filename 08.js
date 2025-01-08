@@ -15,7 +15,7 @@
 
 // TODO: chunkArray 함수를 작성하세요.
 function chunkArray(arr, size) {
-  // TODO
+  
 }
 
 // export를 수정하지 마세요.
